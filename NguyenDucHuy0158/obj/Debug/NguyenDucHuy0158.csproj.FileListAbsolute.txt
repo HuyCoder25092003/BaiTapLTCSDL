@@ -1,0 +1,10 @@
+D:\NguyenDucHuy0158\NguyenDucHuy0158\bin\Debug\NguyenDucHuy0158.exe.config
+D:\NguyenDucHuy0158\NguyenDucHuy0158\bin\Debug\NguyenDucHuy0158.exe
+D:\NguyenDucHuy0158\NguyenDucHuy0158\bin\Debug\NguyenDucHuy0158.pdb
+D:\NguyenDucHuy0158\NguyenDucHuy0158\obj\Debug\NguyenDucHuy0158.csproj.AssemblyReference.cache
+D:\NguyenDucHuy0158\NguyenDucHuy0158\obj\Debug\NguyenDucHuy0158.Form1.resources
+D:\NguyenDucHuy0158\NguyenDucHuy0158\obj\Debug\NguyenDucHuy0158.Properties.Resources.resources
+D:\NguyenDucHuy0158\NguyenDucHuy0158\obj\Debug\NguyenDucHuy0158.csproj.GenerateResource.cache
+D:\NguyenDucHuy0158\NguyenDucHuy0158\obj\Debug\NguyenDucHuy0158.csproj.CoreCompileInputs.cache
+D:\NguyenDucHuy0158\NguyenDucHuy0158\obj\Debug\NguyenDucHuy0158.exe
+D:\NguyenDucHuy0158\NguyenDucHuy0158\obj\Debug\NguyenDucHuy0158.pdb
